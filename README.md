@@ -46,3 +46,37 @@ Not done
 
 ### Day 13
 ![Map 13](https://github.com/juanchiparra/30daymapchallenge/blob/main/2025/13-10-minute.png)
+
+### Day 14
+![Map 14](https://github.com/juanchiparra/30daymapchallenge/blob/main/2025/14-openstreetmap.png)
+
+### Day 15
+![Map 15](https://github.com/juanchiparra/30daymapchallenge/blob/main/2025/15-fire.png)
+
+### Day 16
+![Map 16](https://github.com/juanchiparra/30daymapchallenge/blob/main/2025/16-cell.png)
+
+### Day 17
+![Map 17](https://github.com/juanchiparra/30daymapchallenge/blob/main/2025/17-a-new-tool.png)
+
+### Day 18
+![Map 18](https://github.com/juanchiparra/30daymapchallenge/blob/main/2025/18-out-of-this-world.png)
+
+### Day 19
+![Map 19](https://github.com/juanchiparra/30daymapchallenge/blob/main/2025/19-projections.gif)
+
+### Day 20
+![Map 20](https://github.com/juanchiparra/30daymapchallenge/blob/main/2025/20-water.png)
+
+### Day 21
+![Map 21](https://github.com/juanchiparra/30daymapchallenge/blob/main/2025/21-icons.png)
+
+### Day 22
+Not done
+
+### Day 23
+Not done
+
+### Day 24
+![Map 24](https://github.com/juanchiparra/30daymapchallenge/blob/main/2025/24-places-and-their-names.png)
+
